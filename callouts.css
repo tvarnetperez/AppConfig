@@ -1,0 +1,61 @@
+.callout[data-callout="definition"] {
+    --callout-color: rgb(68, 207, 110);
+    --callout-icon: lucide-book-a;
+}
+
+.callout[data-callout="theorem"] {
+    --callout-color: rgb(102, 153, 204);
+    --callout-icon: lucide-network;
+}
+
+.callout[data-callout="idea"] {
+    --callout-color: rgb(238, 204, 102);
+    --callout-icon: lucide-lightbulb;
+}
+
+.callout[data-callout="failed-idea"] {
+    --callout-color: rgb(238, 204, 102);
+    --callout-icon: lucide-lightbulb-off;
+}
+
+
+.callout[data-callout="unclear"] {
+    --callout-color: rgb(204, 187, 68);
+    --callout-icon: lucide-badge-help;
+}
+
+.callout[data-callout="intuition"] {
+    --callout-color: rgb(102, 204, 238);
+    --callout-icon: lucide-mouse-pointer-click;
+}
+
+.callout[data-callout="pending"] {
+    --callout-color: rgb(238, 102, 119);
+    --callout-icon: lucide-list-todo;
+}
+
+.callout[data-callout="notation"] {
+    --callout-color: rgb(0, 153, 136);
+    --callout-icon: lucide-pencil-ruler;
+}
+
+.callout[data-callout="different"] {
+    --callout-color: rgb(187, 85, 102);
+    --callout-icon: lucide-equal-not;
+}
+
+.callout[data-callout="deadline"] {
+    --callout-color: rgb(238, 119, 51);
+    --callout-icon: lucide-calendar-clock;
+}
+
+.callout[data-callout="pending"] {
+    --callout-color: rgb(170, 51, 119);
+    --callout-icon: lucide-circle-ellipsis;
+}
+
+
+.callout[data-callout="in-statistics-and-probability"] {
+    --callout-color: rgb(102, 204, 238);
+    --callout-icon: chart-bar-stacked;
+}
